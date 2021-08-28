@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="bgu.spl.mics.application.Main" -Dexec.args="input.json output.json"
